@@ -1,0 +1,6 @@
+[submodule "Projects/themes/eureka"]
+	path = Projects/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "Projects/website/themes/eureka"]
+	path = Projects/website/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
